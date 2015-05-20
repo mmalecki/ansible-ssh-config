@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  author: Björn Andersson <ba@sanitarium.se>
+  description: Letting Ansible manage ssh config
+  min_ansible_version: 1.4
+  version: 1.0.0
